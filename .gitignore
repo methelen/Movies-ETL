@@ -4,7 +4,6 @@ __pycache__/
 *$py.class
 
 ratings.csv
-config.py
 
 # C extensions
 *.so
@@ -35,6 +34,8 @@ MANIFEST
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
+
+config.py
 
 # Installer logs
 pip-log.txt
